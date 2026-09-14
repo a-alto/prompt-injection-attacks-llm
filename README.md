@@ -41,5 +41,5 @@ This work is a literature-based presentation. The methods and experimental resul
 
 ## Papers
 
-- Dario Pasquini, Martin Strohmeier, and Carmela Troncoso. **Neural Exec: Learning (and Learning from) Execution Triggers for Prompt Injection Attacks.** ACM Workshop on Artificial Intelligence and Security (AISec), 2024. [Paper PDF](3689932.3694764.pdf).
-- Kuo-Han Hung, Ching-Yun Ko, Ambrish Rawat, I-Hsin Chung, Winston H. Hsu, and Pin-Yu Chen. **Attention Tracker: Detecting Prompt Injection Attacks in LLMs.** Findings of the Association for Computational Linguistics: NAACL 2025. [Paper PDF](2025.findings-naacl.123.pdf).
+- Dario Pasquini, Martin Strohmeier, and Carmela Troncoso. **Neural Exec: Learning (and Learning from) Execution Triggers for Prompt Injection Attacks.** ACM Workshop on Artificial Intelligence and Security (AISec), 2024. [Paper PDF](https://doi.org/10.1145/3689932.3694764).
+- Kuo-Han Hung, Ching-Yun Ko, Ambrish Rawat, I-Hsin Chung, Winston H. Hsu, and Pin-Yu Chen. **Attention Tracker: Detecting Prompt Injection Attacks in LLMs.** Findings of the Association for Computational Linguistics: NAACL 2025. [Paper PDF](https://doi.org/10.18653/v1/2025.findings-naacl.123).
